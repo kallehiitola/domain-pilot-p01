@@ -1,0 +1,19 @@
+# How much wallpaper do i need
+
+> Estimate whole rolls from full-height wallpaper drops, including trim and a straight pattern repeat. This strip method keeps the rounding visible instead of dividing wall area by roll area.
+
+## Calculator
+- [Open the calculator](https://howmuchwallpaperdoineed.com/): A 10 m run, 2.4 m walls, 0.53 × 10.05 m rolls, a 0.64 m repeat and 0.10 m trim need 7 rolls.
+
+## Method
+Add the trimming allowance to the wall height. Round that cut length up to a whole pattern repeat when a repeat applies. Divide roll length by cut length and round down for usable drops per roll. Divide the total wall run by roll width and round up for required drops. Finally, round required drops divided by usable drops per roll up to whole rolls.
+
+## Limits
+Use the longest wall height. This conservative estimate does not subtract doors or windows: full-height drops can still be needed beside openings. Drop matches, sloping ceilings, alcoves and manufacturer-specific matching rules need a cutting plan. Set repeat to zero for a plain design.
+
+## Supporting pages
+- [Method and assumptions](https://howmuchwallpaperdoineed.com/method/)
+- [About, editorial responsibility and privacy](https://howmuchwallpaperdoineed.com/about/)
+
+## Sources
+- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
