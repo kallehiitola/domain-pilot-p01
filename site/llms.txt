@@ -5,6 +5,9 @@
 ## Calculator
 - [Open the calculator](https://howmuchwallpaperdoineed.com/): A 10 m run, 2.4 m walls, 0.53 × 10.05 m rolls, a 0.64 m repeat and 0.10 m trim need 7 rolls.
 
+## Guide
+- [How to how much wallpaper do i need](https://howmuchwallpaperdoineed.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+
 ## Method
 Add the trimming allowance to the wall height. Round that cut length up to a whole pattern repeat when a repeat applies. Divide roll length by cut length and round down for usable drops per roll. Divide the total wall run by roll width and round up for required drops. Finally, round required drops divided by usable drops per roll up to whole rolls.
 
