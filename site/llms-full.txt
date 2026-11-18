@@ -1,4 +1,4 @@
-# How much wallpaper do i need
+# How much wallpaper do I need?
 
 > Estimate whole rolls from full-height wallpaper drops, including trim and a straight pattern repeat. This strip method keeps the rounding visible instead of dividing wall area by roll area.
 
@@ -6,7 +6,7 @@
 - [Open the calculator](https://howmuchwallpaperdoineed.com/): A 10 m run, 2.4 m walls, 0.53 × 10.05 m rolls, a 0.64 m repeat and 0.10 m trim need 7 rolls.
 
 ## Guide
-- [How to how much wallpaper do i need](https://howmuchwallpaperdoineed.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+- [How to work out how much wallpaper you need](https://howmuchwallpaperdoineed.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
 
 ## Method
 Add the trimming allowance to the wall height. Round that cut length up to a whole pattern repeat when a repeat applies. Divide roll length by cut length and round down for usable drops per roll. Divide the total wall run by roll width and round up for required drops. Finally, round required drops divided by usable drops per roll up to whole rolls.
@@ -20,6 +20,17 @@ Use the longest wall height. This conservative estimate does not subtract doors 
 
 ## Sources
 - [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+
+## Step by step
+1. Measure the width of every wall you will paper and add them together. Measure across doors and windows too; full-height drops are still cut beside them.
+2. Measure the wall height from skirting board to ceiling at the tallest point.
+3. Read the roll width, roll length and pattern repeat on the roll label or product page. A common European roll is 0.53 m wide and 10.05 m long.
+4. Allow trim on every drop for straightening the top and bottom edges, for example 5 cm at each end.
+
+## Common mistakes
+- Dividing wall area by roll area. It ignores the off-cut left at the end of each roll and usually under-orders.
+- Ignoring the pattern repeat. A large repeat can cut the number of drops from one roll from four to three.
+- Buying rolls from different batches. Shades can differ, so buy every roll with the same batch number.
 
 ## Worked examples
 ### Example 1
