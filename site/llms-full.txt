@@ -1,40 +1,61 @@
 # How much wallpaper do I need?
 
-> Estimate whole rolls from full-height wallpaper drops, including trim and a straight pattern repeat. This strip method keeps the rounding visible instead of dividing wall area by roll area.
+> Estimate whole wallpaper rolls from full-height drops, including trim allowance, straight or half-drop pattern repeats, and optional deductions for very wide openings.
 
 ## Calculator
-- [Open the calculator](https://howmuchwallpaperdoineed.com/): A 10 m run, 2.4 m walls, 0.53 × 10.05 m rolls, a 0.64 m repeat and 0.10 m trim need 7 rolls.
+- [Open the calculator](https://howmuchwallpaperdoineed.com/): US double roll: a 32 ft wall run, 8 ft ceiling, 20.5 in × 33 ft roll, 24 in straight repeat, and 4 in trim need 7 double rolls (19 drops, 10 ft cut length). Metric: a 10 m wall run, 2.4 m ceiling, 53 cm × 10.05 m rolls, 64 cm straight repeat, and 10 cm trim need 7 rolls (19 drops, 3 drops per roll).
 
 ## Guide
-- [How to work out how much wallpaper you need](https://howmuchwallpaperdoineed.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
+- [How to work out how much wallpaper you need](https://howmuchwallpaperdoineed.com/guide/): step-by-step measuring, common mistakes, and ordering checklist.
 
-## Method
-Add the trimming allowance to the wall height. Round that cut length up to a whole pattern repeat when a repeat applies. Divide roll length by cut length and round down for usable drops per roll. Divide the total wall run by roll width and round up for required drops. Finally, round required drops divided by usable drops per roll up to whole rolls.
+## Formula and method
+Cut length = ceiling((wall height + trim) / repeat) × repeat; Drops per roll = floor(roll length / cut length) for straight match; Rolls = ceiling(ceiling((wall width − skipped openings) / roll width) / drops per roll).
+
+Subtract only wide skipped openings from combined wall width, then divide by roll width and round up for required full-height drops. Add trimming allowance to wall height and round up to a whole pattern repeat for straight matches. For half-drop matches, each additional strip cut from the same roll adds half a pattern repeat to align adjacent panels. Divide roll length to find whole drops per roll, then round required drops divided by drops per roll up to whole rolls.
 
 ## Limits
-Use the longest wall height. This conservative estimate does not subtract doors or windows: full-height drops can still be needed beside openings. Drop matches, sloping ceilings, alcoves and manufacturer-specific matching rules need a cutting plan. Set repeat to zero for a plain design.
+Measure the tallest wall height. Leave skipped openings at zero for standard doors and windows because full-height strips are still needed beside them. Sloping ceilings, alcoves, alternating two-roll half-drop hanging, and manufacturer-specific matching rules require a dedicated cutting plan.
 
 ## Supporting pages
 - [Method and assumptions](https://howmuchwallpaperdoineed.com/method/)
 - [About, editorial responsibility and privacy](https://howmuchwallpaperdoineed.com/about/)
 
 ## Sources
+- [Wikipedia: Wallpaper sizing and pattern matching](https://en.wikipedia.org/wiki/Wallpaper)
+- [NIST: US customary to metric unit conversions](https://www.nist.gov/pml/owm/metric-si/unit-conversion/approximate-conversions-us-customary-measures-metric)
 - [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
 
+## Standard wallpaper roll sizes and typical coverage
+
+Retailers often price wallpaper per single roll while shipping bolts in double-roll lengths. Always enter the actual continuous roll length you will cut from.
+
+| Roll format | Width | Length | Nominal area | Typical usable area |
+| --- | --- | --- | --- | --- |
+| US single roll | 20.5 in (52 cm) | 16.5 ft (5.03 m) | 28 sq ft (2.6 m²) | ~20–22 sq ft |
+| US double roll (most common) | 20.5 in (52 cm) | 33 ft (10.06 m) | 56 sq ft (5.2 m²) | ~40–45 sq ft |
+| European / UK standard roll | 20.9 in (53 cm) | 33 ft (10.05 m) | 57 sq ft (5.33 m²) | ~42–48 sq ft |
+| US wide double roll | 27 in (68.6 cm) | 27 ft (8.23 m) | 60.75 sq ft (5.64 m²) | ~45–50 sq ft |
+| Commercial vinyl (Type II) | 54 in (137 cm) | Sold by linear yard | 13.5 sq ft / yd | Varies by drop |
+
 ## Step by step
-1. Measure the width of every wall you will paper and add them together. Measure across doors and windows too; full-height drops are still cut beside them.
-2. Measure the wall height from skirting board to ceiling at the tallest point.
-3. Read the roll width, roll length and pattern repeat on the roll label or product page. A common European roll is 0.53 m wide and 10.05 m long.
-4. Allow trim on every drop for straightening the top and bottom edges, for example 5 cm at each end.
+1. Measure the width of each wall you plan to paper and add the widths together. Keep standard doors and windows in the total because full-height drops are still cut beside them.
+2. Only measure and subtract wide openings such as sliding glass doors or large arched pass-throughs where whole vertical strips are genuinely skipped.
+3. Measure ceiling height from the top of the baseboard or skirting board to the ceiling line at the tallest spot in the room.
+4. Check the roll label for roll width, roll length, pattern match type (random, straight, or half-drop), and pattern repeat distance.
+5. Allow roughly 4 in (10 cm) of total trim per drop for squaring the top and bottom edges during hanging.
 
 ## Common mistakes
-- Dividing wall area by roll area. It ignores the off-cut left at the end of each roll and usually under-orders.
-- Ignoring the pattern repeat. A large repeat can cut the number of drops from one roll from four to three.
-- Buying rolls from different batches. Shades can differ, so buy every roll with the same batch number.
+- Dividing wall area by roll area. Area division ignores unusable off-cuts left at the end of every roll and frequently under-orders by 15% to 25%.
+- Confusing a US single roll (sold priced per single roll, packed as a double roll) with the actual double-roll length you cut from.
+- Forgetting half-drop pattern waste. An offset match shifts every second strip by half a repeat, which can reduce drops per roll from three to two.
+- Ordering from multiple print runs. Always check that every roll shares the same dye-lot or batch number before hanging.
 
 ## Worked examples
 ### Example 1
-A 10 m run, 2.4 m walls, 0.53 × 10.05 m rolls, a 0.64 m repeat and 0.10 m trim need 7 rolls.
+Metric: a 10 m wall run, 2.4 m ceiling, 53 cm × 10.05 m rolls, 64 cm straight repeat, and 10 cm trim need 7 rolls (19 drops, 3 drops per roll).
 
 ### Example 2
-The same dimensions with a plain design fit four drops per roll and need 5 rolls.
+US double roll: a 32 ft wall run, 8 ft ceiling, 20.5 in × 33 ft roll, 24 in straight repeat, and 4 in trim need 7 double rolls (19 drops, 10 ft cut length).
+
+### Example 3
+Plain design: the same 10 m × 2.4 m metric room with no repeat fits 4 drops per roll and needs 5 rolls.

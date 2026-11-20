@@ -1,22 +1,26 @@
 # How much wallpaper do I need?
 
-> Estimate whole rolls from full-height wallpaper drops, including trim and a straight pattern repeat. This strip method keeps the rounding visible instead of dividing wall area by roll area.
+> Estimate whole wallpaper rolls from full-height drops, including trim allowance, straight or half-drop pattern repeats, and optional deductions for very wide openings.
 
 ## Calculator
-- [Open the calculator](https://howmuchwallpaperdoineed.com/): A 10 m run, 2.4 m walls, 0.53 × 10.05 m rolls, a 0.64 m repeat and 0.10 m trim need 7 rolls.
+- [Open the calculator](https://howmuchwallpaperdoineed.com/): US double roll: a 32 ft wall run, 8 ft ceiling, 20.5 in × 33 ft roll, 24 in straight repeat, and 4 in trim need 7 double rolls (19 drops, 10 ft cut length). Metric: a 10 m wall run, 2.4 m ceiling, 53 cm × 10.05 m rolls, 64 cm straight repeat, and 10 cm trim need 7 rolls (19 drops, 3 drops per roll).
 
 ## Guide
-- [How to work out how much wallpaper you need](https://howmuchwallpaperdoineed.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
+- [How to work out how much wallpaper you need](https://howmuchwallpaperdoineed.com/guide/): step-by-step measuring, common mistakes, and ordering checklist.
 
-## Method
-Add the trimming allowance to the wall height. Round that cut length up to a whole pattern repeat when a repeat applies. Divide roll length by cut length and round down for usable drops per roll. Divide the total wall run by roll width and round up for required drops. Finally, round required drops divided by usable drops per roll up to whole rolls.
+## Formula and method
+Cut length = ceiling((wall height + trim) / repeat) × repeat; Drops per roll = floor(roll length / cut length) for straight match; Rolls = ceiling(ceiling((wall width − skipped openings) / roll width) / drops per roll).
+
+Subtract only wide skipped openings from combined wall width, then divide by roll width and round up for required full-height drops. Add trimming allowance to wall height and round up to a whole pattern repeat for straight matches. For half-drop matches, each additional strip cut from the same roll adds half a pattern repeat to align adjacent panels. Divide roll length to find whole drops per roll, then round required drops divided by drops per roll up to whole rolls.
 
 ## Limits
-Use the longest wall height. This conservative estimate does not subtract doors or windows: full-height drops can still be needed beside openings. Drop matches, sloping ceilings, alcoves and manufacturer-specific matching rules need a cutting plan. Set repeat to zero for a plain design.
+Measure the tallest wall height. Leave skipped openings at zero for standard doors and windows because full-height strips are still needed beside them. Sloping ceilings, alcoves, alternating two-roll half-drop hanging, and manufacturer-specific matching rules require a dedicated cutting plan.
 
 ## Supporting pages
 - [Method and assumptions](https://howmuchwallpaperdoineed.com/method/)
 - [About, editorial responsibility and privacy](https://howmuchwallpaperdoineed.com/about/)
 
 ## Sources
+- [Wikipedia: Wallpaper sizing and pattern matching](https://en.wikipedia.org/wiki/Wallpaper)
+- [NIST: US customary to metric unit conversions](https://www.nist.gov/pml/owm/metric-si/unit-conversion/approximate-conversions-us-customary-measures-metric)
 - [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
